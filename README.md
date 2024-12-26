@@ -109,3 +109,21 @@ This project involves designing, partially implementing, and simulating an IoT n
 
 > **Excellent progress!**  Now, follow the paper reading method: abstract, conclusion, figures/tables, then full text.  Also, create a YouTube playlist for these videos and add a short introductory video summarizing the discussion.
 
+**Sir Mashhood:**
+> **Paper completed** Ma Shah Allah. There is massive improvement! Keep it up! Now that you have completed the introduction/background part, you should move on to the previously discussed method of studying a paper. Starting from abstract, then reading conclusion, then all figures, tables with their labels and descriptions and then the text of the paper
+One more thing: please add these videos to a playlist on youtube and add a less than 1 minute video before the previous videos just to give a big picture of the points you discussed in this video
+
+**Next paper to read:**
+> Designing a Real-Time Implementable Optimal Adaptive Cruise Control for Improving Battery Health and Energy Consumption in EVs through V2V Communication.
+> [https://www.mdpi.com/1996-1073/17/9/1986](https://www.mdpi.com/1996-1073/17/9/1986)
+
+**Reply from Group:**
+> Meeting done.>
+> [https://youtube.com/watch?v=cnRhzxfN-B8&feature=shared](https://youtube.com/watch?v=cnRhzxfN-B8&feature=shared)
+
+**Sir Mashhood:**
+> lets keep these articles saved here along this discussion as simple introductions to ACC and CACC.
+
+> [https://en.wikipedia.org/wiki/Cooperative_Adaptive_Cruise_Control](https://en.wikipedia.org/wiki/Cooperative_Adaptive_Cruise_Control)
+> [https://en.wikipedia.org/wiki/Model_predictive_control](https://en.wikipedia.org/wiki/Model_predictive_control)
+> [https://en.wikipedia.org/wiki/Adaptive_cruise_control](https://en.wikipedia.org/wiki/Adaptive_cruise_control)
