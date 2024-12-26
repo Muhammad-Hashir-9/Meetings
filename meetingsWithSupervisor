@@ -115,6 +115,9 @@ Ma Shah Allah. There is massive improvement! Keep it up!
 Now that you have completed the introduction/background part, you should move on to the previously discussed method of studying a paper. Starting from abstract, then reading conclusion, then all figures, tables with their labels and descriptions and then the text of the paper
 One more thing: please add these videos to a playlist on youtube and add a less than 1 minute video before the previous videos just to give a big picture of the points you discussed in this video
 
+October 2024
+
+Sir Mashhood:
 Next paper to read:
 Designing a Real-Time Implementable Optimal Adaptive Cruise Control for Improving Battery Health and Energy Consumption in EVs through V2V Communication.
 https://www.mdpi.com/1996-1073/17/9/1986
@@ -125,6 +128,7 @@ https://youtube.com/watch?v=cnRhzxfN-B8&feature=shared
 
 Sir Mashhood:
 Nice discussion. Now I wld like you to have another meeting to discuss from your own point of view. 
+
 
 Reply from Group:
 All right sir.
@@ -163,5 +167,20 @@ Sheryar: Blockchain Implementation
 Hashir: Simulink Implementation 
 
 Zainab: Mathematical Model and Algorithms
+
+Sir Mashhood:
+https://ieeexplore.ieee.org/document/10032499
+I have found this very useful literature review paper published in 2023. Can anyone of you quickly scan through it to find any reference to any paper that does exactly what we are thinking about doing i.e., "using *CACC to optimize vehicles' fuel efficiency" (Cooperative = V2X communication based)
+
+Zainab:
+Sir I have read the abstract of this article. I couldn't access the whole article but in the abstract the author discussed how the vehicles equiped with CACC reduces the fuel consumption as compared to those that don't. 
+https://www.tandfonline.com/doi/full/10.1080/15472450.2020.1720673?scroll=top&needAccess=true
+
+Sir Mashhood:
+Was this article referenced in the above literature review? At what number?
+
+Zainab:
+Yes Sir at number 65
+
 
 
