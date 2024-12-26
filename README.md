@@ -3,7 +3,8 @@
 Table of Contents
 - [September Discussion](#September-2024)
   - [Project Details](#project-Details)
-- [October Discussion](#October-2024) 
+- [October Discussion](#October-2024)
+  - [Question Regarding Presentation](#Question-Regarding-Presentation)   
 
 ## September 2024
 
@@ -177,7 +178,7 @@ One more thing: please add these videos to a playlist on youtube and add a less 
 **Zainab:**
 > Yes Sir at number 65
 
-## Question Regarding Presentation
+### Question Regarding Presentation
 
 **Sir Mashhood:**
 > If you have any questions regarding the project, ask them and lear your thoughts about it.
