@@ -162,3 +162,50 @@ One more thing: please add these videos to a playlist on youtube and add a less 
 > **Hashir**: Simulink Implementation 
 
 > **Zainab**: Mathematical Model and Algorithms
+
+**Sir Mashhood:**
+[https://ieeexplore.ieee.org/document/10032499](https://ieeexplore.ieee.org/document/10032499)
+> I have found this very useful literature review paper published in 2023. Can anyone of you quickly scan through it to find any reference to any paper that does exactly what we are thinking about doing i.e., "using *CACC to optimize vehicles' fuel efficiency" (Cooperative = V2X communication based)
+
+**Zainab:**
+> Sir I have read the abstract of this article. I couldn't access the whole article but in the abstract the author discussed how the vehicles equiped with CACC reduces the fuel consumption as compared to those that don't. 
+[https://www.tandfonline.com/doi/full/10.1080/15472450.2020.1720673?scroll=top&needAccess=true](https://www.tandfonline.com/doi/full/10.1080/15472450.2020.1720673?scroll=top&needAccess=true)
+
+**Sir Mashhood:**
+> Was this article referenced in the above literature review? At what number?
+
+**Zainab:**
+> Yes Sir at number 65
+
+## Question Regarding Presentation
+
+**Sir Mashhood:**
+> If you have any questions regarding the project, ask them and lear your thoughts about it.
+
+**Zainab:**
+> Sir the few questions I have about the project are because we are majorly done with the software side that part is quite clear but still some questions related to this are:
+
+> • For the hardware part we will just use the sensor and ESP or we will implement it in actual vehicles for the project. Or  we will make a dummy vehicle like a toy or something.
+
+> • if we will  implement this project do the cars of this current time are suitable for this whole system or this can only be built within smart cars or electric vehicles.
+
+> • How the data management will happen as there will be a lot of data shared between vehicles on Blockchain how will it be found out which data is meant for whom?
+ How will the memory/ space will be managed?
+
+> • For securing the IoT nodes only the protocols are enough? Because hacking can still happen in these protocols. (Without the Blockchain)
+
+**Sheryar:**
+> Our goal is not clear because of the parameters, which is causing confusion. The topic we explained to them (Judges) is something they are not familiar with, so they asked the questions about presentation templates, ideas, implementation sides only.
+
+> Based on the review the presentation and recording of that session i come up with the following question.
+
+> * Which parameters should we be working on, and what are the plans to improve them?
+> * Why do other cars need to have a relationship with the previous car for vehicle-to-vehicle communication?
+> * Our title starts with Intelligence(AI), but we haven’t discussed anything about that.
+> * Other than cruise control, in every scenario, the car is controlled by the driver. How do we justify the system provide benefits, and what are the expected outcomes?
+
+> If we complete the project, how can we make it scalable and decentralized, and will cars have enough storage to store all that information?
+
+> What are our deliverables. Do we only provide them some working sensors and Node red simulation of whole system?
+
+> What are our plans for Phase 2 how can we satisfy them based on our previous interactions
