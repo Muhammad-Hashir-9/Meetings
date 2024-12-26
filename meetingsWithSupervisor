@@ -1,4 +1,24 @@
 Sep 01, 2024
 
 Sir Mashhood Murtaza:
+
 Zabardast Zabardast! Video and it's audio was absolutely clear and its wonderful that today you have completed, at the basic level, the complete thing and now you are in a position to actually start working on your unique dream FYP integrating IoT, AI as well as Cyber-Security in its best tested form - blockchain.
+
+Sep 03, 2024
+
+Sir Mashhood Murtaza:
+
+Title:
+Intelligent Efficiency Enhanced Block-Chain Based IoT of Securely Connected Vehicles
+
+Description:
+Project will include design, partial Implementation and a two fold Simulation of an IoT network and the dynamics of a Vehicle. The nodes of the IoT network will maintain and securely share Block-Chain based (privacy-ensured) information on the network. The information will come from the sensors monitoring different vehicle-dynamics and shared using MQTT protocol. The information will then be utilized in an AI based mechanism designed to improve the vehicles' efficiency.
+
+Partial implementation includes practical implementation of some nodes of the IoT network using effective (e.g., ESP8266 based) devices with all features including those of a Block-Chain peer and MQTT client implemented on them.
+
+IoT network Simulation will include a reasonable number of Virtual Nodes of the IoT simulated as part of the larger Simulation / Implementation of Block-Chain based (privacy-ensured) secure information sharing using the MQTT protocol on Node-Red. 
+
+The MQTT protocol's Broker (Server) will be actually implemented on the system and displayed as part of the Node-Red Simulation.The physical nodes will also share information using the same Broker and so the information transfer to/from them will also be part of the Node-Red display.
+
+Vehicle Dynamics' Simulation will continuously show the results of the A.I. mechanism in the form of enhanced performance of the vehicle. 
+The AI mechanism is designed to optimize the critical parameters of vehicle-dynamics on the basis of the information available from the IoT network.
