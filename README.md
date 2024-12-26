@@ -6,28 +6,28 @@
 
 > Zabardast! Zabardast! Your video and audio were crystal clear, and it's wonderful that you've completed the basics and are now ready to work on your unique dream FYP integrating IoT, AI, and cybersecurity with blockchain.
 
-### Project Details
+> ### Project Details
 
-**Title:** Intelligent Efficiency Enhanced Block-Chain Based IoT of Securely Connected Vehicles
+> **Title:** Intelligent Efficiency Enhanced Block-Chain Based IoT of Securely Connected Vehicles
 
-**Description:**
+> **Description:**
 
-This project involves designing, partially implementing, and simulating an IoT network and vehicle dynamics.  Here's a breakdown:
+> This project involves designing, partially implementing, and simulating an IoT network and vehicle dynamics.  Here's a breakdown:
 
-* **Secure Information Sharing:** IoT network nodes will securely share blockchain-based data from sensors monitoring vehicle dynamics using the MQTT protocol.
-* **AI-Driven Efficiency:** This data will fuel an AI mechanism to optimize vehicle efficiency.
-* **Implementation:**  Some IoT nodes will be implemented using devices like ESP8266 with blockchain and MQTT capabilities.
-* **Simulation:**
-    *  The IoT network will be simulated on Node-Red, including virtual nodes and secure information sharing.
-    *  An MQTT broker will be implemented and displayed within the Node-Red simulation.
-    *  Physical nodes will also communicate through this broker, integrating them into the simulation.
-* **Vehicle Dynamics Simulation:** This will showcase the AI's impact on vehicle performance by optimizing key parameters based on IoT network data.
+> * **Secure Information Sharing:** IoT network nodes will securely share blockchain-based data from sensors monitoring vehicle dynamics using the MQTT protocol.
+> * **AI-Driven Efficiency:** This data will fuel an AI mechanism to optimize vehicle efficiency.
+> * **Implementation:**  Some IoT nodes will be implemented using devices like ESP8266 with blockchain and MQTT capabilities.
+> * **Simulation:**
+>    *  The IoT network will be simulated on Node-Red, including virtual nodes and secure information sharing.
+>    *  An MQTT broker will be implemented and displayed within the Node-Red simulation.
+>    *  Physical nodes will also communicate through this broker, integrating them into the simulation.
+> * **Vehicle Dynamics Simulation:** This will showcase the AI's impact on vehicle performance by optimizing key parameters based on IoT network data.
 
-**Next Steps:**
+> **Next Steps:**
 
-1. **Create a repository:** For storing project data and documentation.
-2. **Read this article:** [https://www.motortrend.com/features/what-is-v2v-v2x-technology/](https://www.motortrend.com/features/what-is-v2v-v2x-technology/) (and save it for your records).
-3. **Prepare for research papers:** I'll be sharing those soon.
+> 1. **Create a repository:** For storing project data and documentation.
+> 2. **Read this article:** [https://www.motortrend.com/features/what-is-v2v-v2x-technology/](https://www.motortrend.com/features/what-is-v2v-v2x-technology/) (and save it for your records).
+> 3. **Prepare for research papers:** I'll be sharing those soon.
 
 **Zainab:**
 
