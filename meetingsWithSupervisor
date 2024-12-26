@@ -22,3 +22,10 @@ The MQTT protocol's Broker (Server) will be actually implemented on the system a
 
 Vehicle Dynamics' Simulation will continuously show the results of the A.I. mechanism in the form of enhanced performance of the vehicle. 
 The AI mechanism is designed to optimize the critical parameters of vehicle-dynamics on the basis of the information available from the IoT network.
+
+Ok now you should create a new Repository for collecting data and documentation of your work on your FYP
+
+Here is the first little thing to read (and save as a record)
+https://www.extremetech.com/cars/176093-v2v-what-are-vehicle-to-vehicle-communications-and-how-does-it-work
+
+Soon you will get some research papers to read
