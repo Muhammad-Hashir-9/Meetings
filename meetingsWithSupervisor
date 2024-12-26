@@ -255,4 +255,16 @@ Sheryar:
 Okay, ma'am. Whenever you have time, please let me know and we can arrange a meeting. Thank you.
 
 Sir Mashhood:
+Updates about your task?
+
+Sheryar:
+Currently, I'm working on the gas problem in an energy smart contract that I wrote, which consumes too much gas. I'm trying to find ways to reduce it. For this purpose, instead of writing contracts online (Remix IDE), I'm now using Truffle.
+
+Hashir:
+Matlab simulation.
+https://www.youtube.com/watch?v=uWjjNH3dPYg&ab_channel=learnWithHashir
+
+Sheryar:
+Blockchain implementation
+https://www.youtube.com/watch?v=7qnxs0SCPIE&ab_channel=learnWithHashir
 
