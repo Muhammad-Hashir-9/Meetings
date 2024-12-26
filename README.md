@@ -1,6 +1,11 @@
-## FYP Project Discussions with Supervisor
+# <center> FYP Project Discussions with Supervisor</center>
 
-**September 2024**
+Table of Contents
+- [Section 1](#September-2024)
+  - [Subsection A](#subsection-a)
+- [Section 2](#section-2) 
+
+## September 2024
 
 **Sir Mashhood:**
 
@@ -113,6 +118,7 @@
 > **Paper completed** Ma Shah Allah. There is massive improvement! Keep it up! Now that you have completed the introduction/background part, you should move on to the previously discussed method of studying a paper. Starting from abstract, then reading conclusion, then all figures, tables with their labels and descriptions and then the text of the paper
 One more thing: please add these videos to a playlist on youtube and add a less than 1 minute video before the previous videos just to give a big picture of the points you discussed in this video
 
+## October 2024
 **Next paper to read:**
 > Designing a Real-Time Implementable Optimal Adaptive Cruise Control for Improving Battery Health and Energy Consumption in EVs through V2V Communication.
 > [https://www.mdpi.com/1996-1073/17/9/1986](https://www.mdpi.com/1996-1073/17/9/1986)
