@@ -118,7 +118,7 @@ One more thing: please add these videos to a playlist on youtube and add a less 
 > [https://www.mdpi.com/1996-1073/17/9/1986](https://www.mdpi.com/1996-1073/17/9/1986)
 
 **Reply from Group:**
-> Meeting done.>
+> Meeting done.
 > [https://youtube.com/watch?v=cnRhzxfN-B8&feature=shared](https://youtube.com/watch?v=cnRhzxfN-B8&feature=shared)
 
 **Sir Mashhood:**
@@ -127,3 +127,29 @@ One more thing: please add these videos to a playlist on youtube and add a less 
 > [https://en.wikipedia.org/wiki/Cooperative_Adaptive_Cruise_Control](https://en.wikipedia.org/wiki/Cooperative_Adaptive_Cruise_Control)
 > [https://en.wikipedia.org/wiki/Model_predictive_control](https://en.wikipedia.org/wiki/Model_predictive_control)
 > [https://en.wikipedia.org/wiki/Adaptive_cruise_control](https://en.wikipedia.org/wiki/Adaptive_cruise_control)
+
+
+**Reply from Group:**
+> Meeting done.
+> i)   [https://youtu.be/qFpIVoVyyy8](https://youtu.be/qFpIVoVyyy8)
+> ii)  [https://youtu.be/8zXlFINqUbc](https://youtu.be/8zXlFINqUbc)
+> iii) [https://youtu.be/_D9UxAlh_E4](https://youtu.be/_D9UxAlh_E4)
+
+**Sir Mashhood:**
+> Ok great! I will watch it in a while.
+> Next u need to think about how u can change your blockchain implementation on node-red and esp to match the blockchain discussed in the last paper you read.
+
+> The thing is that I think now you should split the tasks:
+> 1- Modified blockchain implementation. 
+
+> 2- Simulink implementation.
+
+> 3- Understanding of the mathematical and control algorithms presented in the paper and their possible modification to fit them for fuel vehicles.
+
+**Reply:**
+
+> **Sheryar**: Blockchain Implementation 
+
+> **Hashir**: Simulink Implementation 
+
+> **Zainab**: Mathematical Model and Algorithms
