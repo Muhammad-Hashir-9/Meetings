@@ -37,19 +37,19 @@ This project involves designing, partially implementing, and simulating an IoT n
 
 > The next paper addresses this distinction.
 
-**1st Paper:**
+> **1st Paper:**
 
-* **Link:** [https://www.nature.com/](https://www.nature.com/) 
-* **Importance:** Include this in your first FYP presentation (literature review).
-* **Present your understanding ASAP.**
+> * **Link:** [https://www.nature.com/](https://www.nature.com/) 
+> * **Importance:** Include this in your first FYP presentation (literature review).
+> * **Present your understanding ASAP.**
 
-**How to Read Research Papers:**
+> **How to Read Research Papers:**
 
-1. **Abstract**
-2. **Conclusion**
-3. **Introduction (briefly)**
-4. **Figures and Graphs**
-5. **Full Text** (AI can be helpful here)
+> 1. **Abstract**
+> 2. **Conclusion**
+> 3. **Introduction (briefly)**
+> 4. **Figures and Graphs**
+> 5. **Full Text** (AI can be helpful here)
 
 
 **Sheryar:**
