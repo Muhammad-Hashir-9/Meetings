@@ -1,9 +1,9 @@
 # <center> FYP Project Discussions with Supervisor</center>
 
 Table of Contents
-- [Section 1](#September-2024)
-  - [Subsection A](#subsection-a)
-- [Section 2](#section-2) 
+- [September Discussion](#September-2024)
+  - [Project Details](#project-Details)
+- [October Discussion](#October-2024) 
 
 ## September 2024
 
