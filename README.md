@@ -210,3 +210,6 @@ One more thing: please add these videos to a playlist on youtube and add a less 
 > What are our deliverables. Do we only provide them some working sensors and Node red simulation of whole system?
 
 > What are our plans for Phase 2 how can we satisfy them based on our previous interactions
+
+
+<center><mark>Still we need to update our progress of Nov & Dec. We will update that as soon as possible.</mark></center>
